@@ -1,3 +1,7 @@
 pm2 restart 1 --cron "0 */12 * * *"
 
+<<<<<<< HEAD
 Restart script every 12 hrs
+=======
+Restart script every 12 hrs
+>>>>>>> e9f46c782d0a6140620ee5fd391a218b7107b075
